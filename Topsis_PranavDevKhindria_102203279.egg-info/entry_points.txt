@@ -1,2 +1,2 @@
 [console_scripts]
-topsis-calc = topsis_yourname_rollnumber.main:main
+topsis-calc = topsis_PranavDevKhindria_102203279.main:main

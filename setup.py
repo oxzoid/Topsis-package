@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Topsis-PranavDevKhindria-102203279",            # Package name on PyPI
-    version="0.1.0",                             # Package version
+    name="topsis-PranavDevKhindria-102203279",            # Package name on PyPI
+    version="0.2.0",                             # Package version
     author="Pranav",
     description="A Python package to perform Topsis analysis.",
     long_description=open("README.md", "r").read(),
@@ -16,7 +16,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "topsis-calc=topsis_yourname_rollnumber.main:main"
+            "topsis-calc=topsis_PranavDevKhindria_102203279.main:main"
         ]
     },
     classifiers=[
