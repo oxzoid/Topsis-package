@@ -7,7 +7,7 @@ setup(
     description="A Python package to perform Topsis analysis.",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/Topsis-YourName-RollNumber",
+    url="https://github.com/oxzoid/Topsis-package",
     packages=find_packages(),                    # Automatically find subpackages
     include_package_data=True,                   # If you have data files, etc.
     install_requires=[

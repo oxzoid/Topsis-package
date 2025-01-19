@@ -1,0 +1,2 @@
+[console_scripts]
+topsis-calc = topsis_yourname_rollnumber.main:main

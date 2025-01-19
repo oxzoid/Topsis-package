@@ -7,7 +7,7 @@ Description: A command line TOPSIS implementation in Python.
 """
 
 import sys
-import os
+import os   
 import pandas as pd
 import numpy as np
 
