@@ -21,15 +21,14 @@ TOPSIS is a multi-criteria decision-making approach that ranks a set of alternat
 
 ## File Structure
 
-- **Script Name**: `YourRollNumber.py`  
-  Replace `YourRollNumber` with your actual roll number (e.g., `101556.py`).
+- **Script Name**: `main.py`
 
 - **Input CSV File**: `<RollNumber>-data.csv`  
   - Must contain at least 3 columns.
   - The **first column** is the identifier (e.g., M1, M2, ...).
   - The **remaining columns** are numeric (no missing or non-numeric values).
 
-- **Output CSV File**: `<RollNumber>-result.csv`  
+- **Output CSV File**: `102203279-result.csv`  
   - Will contain the original columns plus two additional columns:  
     - **Topsis Score**  
     - **Rank**
@@ -39,6 +38,6 @@ TOPSIS is a multi-criteria decision-making approach that ranks a set of alternat
 Open a terminal/command prompt in the directory containing your Python script and run:
 
 ```bash
-python YourRollNumber.py <InputDataFile> <Weights> <Impacts> <ResultFileName>
+python main.py <InputDataFile> <Weights> <Impacts> <ResultFileName>
 ```
 
