@@ -23,7 +23,7 @@ TOPSIS is a multi-criteria decision-making approach that ranks a set of alternat
 
 - **Script Name**: `main.py`
 
-- **Input CSV File**: `<RollNumber>-data.csv`  
+- **Input CSV File**: `102203279-data.csv`  
   - Must contain at least 3 columns.
   - The **first column** is the identifier (e.g., M1, M2, ...).
   - The **remaining columns** are numeric (no missing or non-numeric values).
